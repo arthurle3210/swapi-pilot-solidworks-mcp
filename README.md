@@ -104,3 +104,7 @@ Once installed, you can run projects directly with `dotnet run`.
 | `get_example_code` | Search and retrieve example code |
 | `get_enum` | Look up enum/constant values |
 | `generate_project` | Generate a C# console project template |
+
+---
+
+[繁體中文說明](README.zh-TW.md)
