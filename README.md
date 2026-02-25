@@ -1,5 +1,3 @@
-> ⚠️ **Server under maintenance** — MCP service is temporarily unavailable. Expected to resume shortly.
-
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-API-blue)
 ![MCP](https://img.shields.io/badge/MCP-Compatible-green)
 ![AI Automation](https://img.shields.io/badge/AI-Automation-orange)
@@ -51,14 +49,14 @@ Without swapi-pilot, this kind of task is extremely difficult for any LLM. Solid
 Claude Code:
 
 ```bash
-claude mcp add swapi-pilot --transport http https://swapi-pilot-848729457706.us-east1.run.app/mcp
+claude mcp add swapi-pilot --transport http https://swapi-pilot.com/mcp
 ```
 #### or add to `C:\Users\"user"\.claude.json`
 ```json
   "mcpServers": {
     "swapi-pilot": {
       "type": "http",
-      "url": "https://swapi-pilot-848729457706.us-east1.run.app/mcp"
+      "url": "https://swapi-pilot.com/mcp"
     }
   }
 ```
@@ -66,13 +64,13 @@ Codex CLI:
 ##### Add to `\.codex\config.toml`
 ```bash
 [mcp_servers.swapi-pilot]
-url = "https://swapi-pilot-848729457706.us-east1.run.app/mcp"
+url = "https://swapi-pilot.com/mcp"
 ```
 Opencode:
 ##### Add to `\.config\opencode\opencode.json`
 ```bash
 [mcp_servers.swapi-pilot]
-url = "https://swapi-pilot-848729457706.us-east1.run.app/mcp"
+url = "https://swapi-pilot.com/mcp"
 ```
 
 ## Strongly Recommended for First-Time Use: Add the AI Workflow Template

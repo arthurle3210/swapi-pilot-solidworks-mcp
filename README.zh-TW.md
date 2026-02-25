@@ -1,5 +1,3 @@
-> ⚠️ **伺服器維護中** — MCP 服務暫時無法使用，預計近期恢復。
-
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-API-blue)
 ![MCP](https://img.shields.io/badge/MCP-Compatible-green)
 ![AI Automation](https://img.shields.io/badge/AI-Automation-orange)
@@ -51,14 +49,14 @@ swapi-pilot 為 AI agents提供準確、最新的 SolidWorks API 文件庫
 Claude Code：
 
 ```bash
-claude mcp add swapi-pilot --transport http https://swapi-pilot-848729457706.us-east1.run.app/mcp
+claude mcp add swapi-pilot --transport http https://swapi-pilot.com/mcp
 ```
 #### or 在 C:\Users\ "user"\ .claude.json 新增
 ```json
   "mcpServers": {
     "swapi-pilot": {
       "type": "http",
-      "url": "https://swapi-pilot-848729457706.us-east1.run.app/mcp"
+      "url": "https://swapi-pilot.com/mcp"
     }
   }
 ```
@@ -66,13 +64,13 @@ Codex CLI：
 ##### 在\.codex\config.toml 新增
 ```bash
 [mcp_servers.swapi-pilot]
-url = "https://swapi-pilot-848729457706.us-east1.run.app/mcp"
+url = "https://swapi-pilot.com/mcp"
 ```
 Opencode：
 ##### 在\.config\opencode\opencode.json新增一行
 ```bash
 [mcp_servers.swapi-pilot]
-url = "https://swapi-pilot-848729457706.us-east1.run.app/mcp"
+url = "https://swapi-pilot.com/mcp"
 ```
 ## 第一次使用強烈建議：放入 AI 工作範本
 
