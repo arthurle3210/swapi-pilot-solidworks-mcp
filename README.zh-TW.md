@@ -1,3 +1,5 @@
+> ⚠️ **伺服器維護中** — MCP 服務暫時無法使用，預計近期恢復。
+
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-API-blue)
 ![MCP](https://img.shields.io/badge/MCP-Compatible-green)
 ![AI Automation](https://img.shields.io/badge/AI-Automation-orange)

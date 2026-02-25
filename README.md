@@ -1,3 +1,5 @@
+> ⚠️ **Server under maintenance** — MCP service is temporarily unavailable. Expected to resume shortly.
+
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-API-blue)
 ![MCP](https://img.shields.io/badge/MCP-Compatible-green)
 ![AI Automation](https://img.shields.io/badge/AI-Automation-orange)
