@@ -68,9 +68,17 @@ url = "https://swapi-pilot.com/mcp"
 ```
 Opencode:
 ##### Add to `\.config\opencode\opencode.json`
-```bash
-[mcp_servers.swapi-pilot]
-url = "https://swapi-pilot.com/mcp"
+```json
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "swapi-pilot": {
+      "type": "remote",
+      "url": "https://swapi-pilot.com/mcp",
+      "enabled": true
+    }
+  }
+}
 ```
 
 ## Strongly Recommended for First-Time Use: Add the AI Workflow Template

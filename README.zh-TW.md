@@ -67,10 +67,18 @@ Codex CLI：
 url = "https://swapi-pilot.com/mcp"
 ```
 Opencode：
-##### 在\.config\opencode\opencode.json新增一行
-```bash
-[mcp_servers.swapi-pilot]
-url = "https://swapi-pilot.com/mcp"
+##### 在\.config\opencode\opencode.json新增
+```json
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "swapi-pilot": {
+      "type": "remote",
+      "url": "https://swapi-pilot.com/mcp",
+      "enabled": true
+    }
+  }
+}
 ```
 ## 第一次使用強烈建議：放入 AI 工作範本
 
