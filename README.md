@@ -1,6 +1,11 @@
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-API-blue)
 ![MCP](https://img.shields.io/badge/MCP-Compatible-green)
 ![AI Automation](https://img.shields.io/badge/AI-Automation-orange)
+
+<div align="center">
+  <a href="https://www.paypal.com/ncp/payment/X4SXPQ5BGKGUG"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" height="50"></a>
+</div>
+
 # swapi-pilot
 
 ### swapi-pilot MCP - Your SolidWorks API Navigator
