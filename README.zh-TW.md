@@ -3,7 +3,11 @@
 ![AI Automation](https://img.shields.io/badge/AI-Automation-orange)
 
 <div align="center">
-  <a href="https://www.paypal.com/ncp/payment/X4SXPQ5BGKGUG"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="使用 PayPal 贊助" height="50"></a>
+
+如果 swapi-pilot 對你有幫助，歡迎贊助支持它持續開發：
+
+<a href="https://swapi-pilot.lemonsqueezy.com/checkout/buy/d2fca40c-0d80-473f-8334-4f09e593e1b6"><img src="https://img.shields.io/badge/Donate%20to%20Support-FFC233?style=for-the-badge&logo=lemonsqueezy&logoColor=black" alt="贊助支持"></a>
+
 </div>
 
 # swapi-pilot
