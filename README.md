@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/arthurle3210-swapi-pilot-solidworks-mcp-badge.png)](https://mseep.ai/app/arthurle3210-swapi-pilot-solidworks-mcp)
+
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-API-blue)
 ![MCP](https://img.shields.io/badge/MCP-Compatible-green)
 ![AI Automation](https://img.shields.io/badge/AI-Automation-orange)
